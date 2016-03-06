@@ -1,6 +1,6 @@
 {
   "name": "@anuminus/how-to-npm",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "From how-to-npm.",
   "main": "server.js",
   "author": "Evan Lasley <evan@graylightconsulting.com>",
@@ -18,5 +18,4 @@
   "repository": "https://github.com/anuminus/how-to-npm",
   "devDependencies": {},
   "license": "ISC"
-  
 }
