@@ -1,7 +1,7 @@
 {
-  "name": "@anuminus/chat-example",
+  "name": "@anuminus/how-to-npm",
   "version": "0.0.1",
-  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow. From how-to-npm.",
+  "description": "From how-to-npm.",
   "main": "server.js",
   "author": "Evan Lasley <evan@graylightconsulting.com>",
   "dependencies": {
@@ -15,6 +15,7 @@
     "start": "node server.js",
     "test": "node test.js"
   },
+  "repository": "https://github.com/anuminus/how-to-npm",
   "devDependencies": {},
   "license": "ISC"
   
